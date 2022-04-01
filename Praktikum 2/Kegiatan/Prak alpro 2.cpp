@@ -80,7 +80,7 @@ int main(){
 	totbayar=total-(jumongkir+diskon);
 	cout<<"|Tunai        : Rp "; cin>>tunai;
 	cout<<"|Kembali      : Rp "<<tunai-totbayar<<endl;
-	cout<<"===============================================\n";
+	cout<<"===============================================\n";ke
 	
 	cout<<"\nApakah anda akan memesan kembali : [Y/T]";
 	cin>>a;
